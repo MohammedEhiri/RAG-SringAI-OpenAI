@@ -17,4 +17,4 @@ This is a Spring Boot project for implementing a RAG (Retrieval-Augmented Genera
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Rag-SpringAI-OpenAI.git
+   git clone https://github.com/MohammedEhiri/Rag-SpringAI-OpenAI.git
